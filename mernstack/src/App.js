@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 function App() {
 
-  console.log("Test");
+  console.log("Pull Test");
 
   return (
     <div className="App">
