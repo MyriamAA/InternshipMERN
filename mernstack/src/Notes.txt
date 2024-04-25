@@ -1,0 +1,11 @@
+// mongo 
+// ///
+// cluster
+// document
+// collection
+// structure connection string
+// CRUD: Create Read Update Delete
+// //
+
+// react 
+// function component
